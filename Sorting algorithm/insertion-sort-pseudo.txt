@@ -1,0 +1,10 @@
+define the first element as a sorted element
+
+for each unsorted element
+	compare to the sorted elements
+		if the sorted element is greater then current unsorted element, then put the element in before and stop
+			if the sorted element is smaller then current unsorted element, then continue compare to the next sort element
+	if reach the end of unsorted elements, then return the sorted elements
+
+
+	

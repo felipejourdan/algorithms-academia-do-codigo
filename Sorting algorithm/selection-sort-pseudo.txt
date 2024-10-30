@@ -1,0 +1,13 @@
+
+
+for each elements
+	set the index of the first element as the smallest
+	
+	for each element after smallest
+		if element is smaller then smallest
+			set the index of the element as a smallest
+
+		if index os smallest element is smaller then index of element	
+			change last slmallest element position with corrent smallest element position
+
+

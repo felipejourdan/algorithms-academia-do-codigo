@@ -1,0 +1,8 @@
+define the first charactere as searched charactere
+define a number of equal characteres as 1
+
+for each charactere after
+	if searched charactere is equal to next one
+		sum 1 to the number of equal characteres
+add to the new string the number of equal charactheress + search charactere
+reset the number of characteres

@@ -1,0 +1,8 @@
+check the divide for 2 remainder for the array length, if is diferente to 0 
+	return false
+mark the middle index
+
+compare each character until the middle with the last character less the current index character
+	if the character is different to the his opposite
+		return false
+	return true

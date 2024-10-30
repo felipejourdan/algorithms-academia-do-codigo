@@ -1,0 +1,12 @@
+mark the first number as compared number
+
+
+if the compared number is equal to the searched number
+	return true
+
+for each uncompare number
+	sum the ompared number to the uncompare number
+		if the result is equal to the searched number
+			return true
+		go to the next uncompare number
+	mark the first uncompare number as the compared number
